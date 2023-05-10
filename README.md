@@ -1,4 +1,4 @@
-Hi, my name is Trung Kien Nguyen (nickname MOON) !!!
+Hi, my name is Trung Kien Nguyen (MOON) !!!
 
 You should run this program in YOUR OWN DEVICE!
 Just run the Bloodmoon.rb file to run the program, the other files are sub-files only
