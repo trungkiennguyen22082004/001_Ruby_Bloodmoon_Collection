@@ -1,5 +1,3 @@
 (Game, Score, Time, Status)
-3
-         Star Wars, 36, 31, Defeat
-            2048, 128, 33, Defeat
+1
 Overcoming Obstacles, 4, 11, Defeat 
